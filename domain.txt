@@ -1,0 +1,3 @@
+expired.badssl.com
+wrong.host.badssl.com
+untrusted-root.badssl.com
