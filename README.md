@@ -3,7 +3,7 @@
 1. Clone repository
 
    ```bash
-   dotfiles link https://github.com/askwakhid/ssl-expiration-alert.git
+   git clone https://github.com/askwakhid/ssl-expiration-alert.git
    ```
 1. Edit domain.text and replace with the domain you want to monitor
     ```bash
